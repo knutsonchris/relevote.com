@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ReleVote</title>
+    <link>https://relevote.com/</link>
+    <description>Recent content on ReleVote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2019 15:48:24 +0530</lastBuildDate>
+    
+	<atom:link href="https://relevote.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://relevote.com/privacy/</link>
+      <pubDate>Tue, 05 Mar 2019 15:48:24 +0530</pubDate>
+      
+      <guid>https://relevote.com/privacy/</guid>
+      <description>Privacy Policy Last updated and effective: June 10, 2019
+Privacy matters to us. If you have questions about any of the following information, please send an email to contact@relevote.com and we will get back to you as soon as possible.
+ReleVote was designed to provide users an easy way to stay up to date with actions taken by their Representatives in the United State Senate and House of Representatives. All data found in this application is taken directly or derived* from data collected from publicly available and official US Government sources.</description>
+    </item>
+    
+    <item>
+      <title>Terms of Use</title>
+      <link>https://relevote.com/terms/</link>
+      <pubDate>Tue, 05 Mar 2019 15:47:17 +0530</pubDate>
+      
+      <guid>https://relevote.com/terms/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a luctus dolor, et varius nulla. Maecenas pharetra suscipit mauris, eu consectetur nunc egestas quis. Nulla efficitur eu risus sit amet maximus. Mauris eu mi eros. Sed euismod, felis ac hendrerit fermentum, massa nulla interdum enim, quis commodo mi ipsum nec leo. Cras rutrum venenatis metus vel aliquet. Nulla tincidunt sem quis dapibus lacinia. Quisque vel ipsum laoreet arcu porttitor euismod et nec elit.</description>
+    </item>
+    
+  </channel>
+</rss>
